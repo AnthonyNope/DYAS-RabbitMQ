@@ -1,5 +1,12 @@
 ### Taller sobre RabbitMQ
 
+En este ejemplo, se simula un sistema de pedidos de comida.
+El productor envía varios pedidos (Pizza, Sushi, etc.),
+y el consumidor los recibe y simula prepararlos.
+Se usó RabbitMQ para implementar comunicación asincrónica entre procesos.
+
+
+
 #### Objetivo
 El objetivo de este taller es aprender a utilizar RabbitMQ para la mensajería asincrónica en aplicaciones. Implementaremos ejemplos prácticos para entender cómo enviar y recibir mensajes utilizando RabbitMQ.
 
